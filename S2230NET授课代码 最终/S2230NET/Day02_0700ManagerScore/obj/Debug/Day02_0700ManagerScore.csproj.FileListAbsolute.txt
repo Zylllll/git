@@ -1,0 +1,10 @@
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\bin\Debug\Day02_0700ManagerScore.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\bin\Debug\Day02_0700ManagerScore.exe
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\bin\Debug\Day02_0700ManagerScore.pdb
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.exe
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.pdb
+F:\TecahCode\S2230NET\S2230NET\Day02_0700ManagerScore\obj\Debug\Day02_0700ManagerScore.FrmScore.resources

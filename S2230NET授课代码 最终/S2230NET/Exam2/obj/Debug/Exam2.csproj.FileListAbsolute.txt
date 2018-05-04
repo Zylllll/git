@@ -1,0 +1,9 @@
+F:\TecahCode\S2230NET\S2230NET\Exam2\bin\Debug\Exam2.exe.config
+F:\TecahCode\S2230NET\S2230NET\Exam2\bin\Debug\Exam2.exe
+F:\TecahCode\S2230NET\S2230NET\Exam2\bin\Debug\Exam2.pdb
+F:\TecahCode\S2230NET\S2230NET\Exam2\obj\Debug\Exam2.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Exam2\obj\Debug\Exam2.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Exam2\obj\Debug\Exam2.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Exam2\obj\Debug\Exam2.exe
+F:\TecahCode\S2230NET\S2230NET\Exam2\obj\Debug\Exam2.pdb

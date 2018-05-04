@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day04_0400MD5\bin\Debug\Day04_0400MD5.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day04_0400MD5\bin\Debug\Day04_0400MD5.exe
+F:\TecahCode\S2230NET\S2230NET\Day04_0400MD5\bin\Debug\Day04_0400MD5.pdb
+F:\TecahCode\S2230NET\S2230NET\Day04_0400MD5\obj\Debug\Day04_0400MD5.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day04_0400MD5\obj\Debug\Day04_0400MD5.exe
+F:\TecahCode\S2230NET\S2230NET\Day04_0400MD5\obj\Debug\Day04_0400MD5.pdb

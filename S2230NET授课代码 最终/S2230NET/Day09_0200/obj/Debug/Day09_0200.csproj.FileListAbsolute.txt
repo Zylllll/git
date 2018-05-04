@@ -1,0 +1,5 @@
+F:\TecahCode\S2230NET\S2230NET\Day09_0200\bin\Debug\Day09_0200.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day09_0200\bin\Debug\Day09_0200.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0200\bin\Debug\Day09_0200.pdb
+F:\TecahCode\S2230NET\S2230NET\Day09_0200\obj\Debug\Day09_0200.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0200\obj\Debug\Day09_0200.pdb

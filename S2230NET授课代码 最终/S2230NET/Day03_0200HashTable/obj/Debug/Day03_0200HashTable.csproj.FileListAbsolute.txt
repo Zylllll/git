@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day03_0200HashTable\bin\Debug\Day03_0200HashTable.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day03_0200HashTable\bin\Debug\Day03_0200HashTable.exe
+F:\TecahCode\S2230NET\S2230NET\Day03_0200HashTable\bin\Debug\Day03_0200HashTable.pdb
+F:\TecahCode\S2230NET\S2230NET\Day03_0200HashTable\obj\Debug\Day03_0200HashTable.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day03_0200HashTable\obj\Debug\Day03_0200HashTable.exe
+F:\TecahCode\S2230NET\S2230NET\Day03_0200HashTable\obj\Debug\Day03_0200HashTable.pdb

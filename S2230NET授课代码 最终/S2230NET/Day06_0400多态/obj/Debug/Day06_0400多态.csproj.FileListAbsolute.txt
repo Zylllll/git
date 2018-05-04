@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day06_0400多态\bin\Debug\Day06_0400多态.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day06_0400多态\obj\Debug\Day06_0400多态.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day06_0400多态\bin\Debug\Day06_0400多态.exe
+F:\TecahCode\S2230NET\S2230NET\Day06_0400多态\bin\Debug\Day06_0400多态.pdb
+F:\TecahCode\S2230NET\S2230NET\Day06_0400多态\obj\Debug\Day06_0400多态.exe
+F:\TecahCode\S2230NET\S2230NET\Day06_0400多态\obj\Debug\Day06_0400多态.pdb

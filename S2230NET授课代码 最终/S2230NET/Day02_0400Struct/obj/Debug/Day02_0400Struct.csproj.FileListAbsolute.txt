@@ -1,0 +1,5 @@
+F:\TecahCode\S2230NET\S2230NET\Day02_0400Struct\bin\Debug\Day02_0400Struct.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day02_0400Struct\bin\Debug\Day02_0400Struct.exe
+F:\TecahCode\S2230NET\S2230NET\Day02_0400Struct\bin\Debug\Day02_0400Struct.pdb
+F:\TecahCode\S2230NET\S2230NET\Day02_0400Struct\obj\Debug\Day02_0400Struct.exe
+F:\TecahCode\S2230NET\S2230NET\Day02_0400Struct\obj\Debug\Day02_0400Struct.pdb

@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day06_0200hasConstructor\bin\Debug\Day06_0200hasConstructor.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day06_0200hasConstructor\bin\Debug\Day06_0200hasConstructor.exe
+F:\TecahCode\S2230NET\S2230NET\Day06_0200hasConstructor\bin\Debug\Day06_0200hasConstructor.pdb
+F:\TecahCode\S2230NET\S2230NET\Day06_0200hasConstructor\obj\Debug\Day06_0200hasConstructor.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day06_0200hasConstructor\obj\Debug\Day06_0200hasConstructor.exe
+F:\TecahCode\S2230NET\S2230NET\Day06_0200hasConstructor\obj\Debug\Day06_0200hasConstructor.pdb

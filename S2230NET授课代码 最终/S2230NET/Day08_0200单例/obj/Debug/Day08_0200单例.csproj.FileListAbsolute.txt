@@ -1,0 +1,15 @@
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\bin\Debug\Day08_0200单例.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\bin\Debug\Day08_0200单例.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\bin\Debug\Day08_0200单例.pdb
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.pdb
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\bin\Debug\Interop.WMPLib.dll
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\bin\Debug\AxInterop.WMPLib.dll
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Interop.WMPLib.dll
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\AxInterop.WMPLib.dll
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.csproj.ResolveComReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0200单例\obj\Debug\Day08_0200单例.FrmPlay.resources

@@ -1,0 +1,2 @@
+F:\TecahCode\S2230NET\S2230NET\Day06_0300SingleParent\bin\Debug\Day06_0300SingleParent.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day06_0300SingleParent\obj\Debug\Day06_0300SingleParent.csprojResolveAssemblyReference.cache

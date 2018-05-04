@@ -1,0 +1,9 @@
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\bin\Debug\Day03_0500BindDaa.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\bin\Debug\Day03_0500BindDaa.exe
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\bin\Debug\Day03_0500BindDaa.pdb
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\obj\Debug\Day03_0500BindDaa.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\obj\Debug\Day03_0500BindDaa.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\obj\Debug\Day03_0500BindDaa.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\obj\Debug\Day03_0500BindDaa.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\obj\Debug\Day03_0500BindDaa.exe
+F:\TecahCode\S2230NET\S2230NET\Day03_0500BindDaa\obj\Debug\Day03_0500BindDaa.pdb

@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day02_0300reftype\bin\Debug\Day02_0300reftype.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day02_0300reftype\bin\Debug\Day02_0300reftype.exe
+F:\TecahCode\S2230NET\S2230NET\Day02_0300reftype\bin\Debug\Day02_0300reftype.pdb
+F:\TecahCode\S2230NET\S2230NET\Day02_0300reftype\obj\Debug\Day02_0300reftype.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day02_0300reftype\obj\Debug\Day02_0300reftype.exe
+F:\TecahCode\S2230NET\S2230NET\Day02_0300reftype\obj\Debug\Day02_0300reftype.pdb

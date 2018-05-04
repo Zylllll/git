@@ -1,0 +1,5 @@
+F:\TecahCode\S2230NET\S2230NET\Day09_0400FileInfoAndDirectoryInfo\bin\Debug\Day09_0400FileInfoAndDirectoryInfo.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day09_0400FileInfoAndDirectoryInfo\bin\Debug\Day09_0400FileInfoAndDirectoryInfo.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0400FileInfoAndDirectoryInfo\bin\Debug\Day09_0400FileInfoAndDirectoryInfo.pdb
+F:\TecahCode\S2230NET\S2230NET\Day09_0400FileInfoAndDirectoryInfo\obj\Debug\Day09_0400FileInfoAndDirectoryInfo.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0400FileInfoAndDirectoryInfo\obj\Debug\Day09_0400FileInfoAndDirectoryInfo.pdb

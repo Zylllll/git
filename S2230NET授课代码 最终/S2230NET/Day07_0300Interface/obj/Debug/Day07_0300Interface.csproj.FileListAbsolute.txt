@@ -1,0 +1,5 @@
+F:\TecahCode\S2230NET\S2230NET\Day07_0300Interface\bin\Debug\Day07_0300Interface.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day07_0300Interface\bin\Debug\Day07_0300Interface.exe
+F:\TecahCode\S2230NET\S2230NET\Day07_0300Interface\bin\Debug\Day07_0300Interface.pdb
+F:\TecahCode\S2230NET\S2230NET\Day07_0300Interface\obj\Debug\Day07_0300Interface.exe
+F:\TecahCode\S2230NET\S2230NET\Day07_0300Interface\obj\Debug\Day07_0300Interface.pdb

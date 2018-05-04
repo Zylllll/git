@@ -1,0 +1,9 @@
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\bin\Debug\Day05体检套餐.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\bin\Debug\Day05体检套餐.exe
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\bin\Debug\Day05体检套餐.pdb
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\obj\Debug\Day05体检套餐.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\obj\Debug\Day05体检套餐.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\obj\Debug\Day05体检套餐.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\obj\Debug\Day05体检套餐.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\obj\Debug\Day05体检套餐.exe
+F:\TecahCode\S2230NET\S2230NET\Day05体检套餐\obj\Debug\Day05体检套餐.pdb

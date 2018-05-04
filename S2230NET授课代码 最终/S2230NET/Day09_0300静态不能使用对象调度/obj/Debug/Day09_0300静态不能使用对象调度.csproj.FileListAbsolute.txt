@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day09_0300静态不能使用对象调度\bin\Debug\Day09_0300静态不能使用对象调度.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day09_0300静态不能使用对象调度\bin\Debug\Day09_0300静态不能使用对象调度.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0300静态不能使用对象调度\bin\Debug\Day09_0300静态不能使用对象调度.pdb
+F:\TecahCode\S2230NET\S2230NET\Day09_0300静态不能使用对象调度\obj\Debug\Day09_0300静态不能使用对象调度.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day09_0300静态不能使用对象调度\obj\Debug\Day09_0300静态不能使用对象调度.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0300静态不能使用对象调度\obj\Debug\Day09_0300静态不能使用对象调度.pdb

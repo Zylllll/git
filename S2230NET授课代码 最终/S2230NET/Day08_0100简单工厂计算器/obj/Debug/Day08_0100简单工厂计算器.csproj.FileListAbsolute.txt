@@ -1,0 +1,9 @@
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\bin\Debug\Day08_0100简单工厂计算器.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\bin\Debug\Day08_0100简单工厂计算器.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\bin\Debug\Day08_0100简单工厂计算器.pdb
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\obj\Debug\Day08_0100简单工厂计算器.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\obj\Debug\Day08_0100简单工厂计算器.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\obj\Debug\Day08_0100简单工厂计算器.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\obj\Debug\Day08_0100简单工厂计算器.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\obj\Debug\Day08_0100简单工厂计算器.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0100简单工厂计算器\obj\Debug\Day08_0100简单工厂计算器.pdb

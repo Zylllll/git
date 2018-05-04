@@ -1,0 +1,9 @@
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\bin\Debug\Day08_0400TreeView.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\bin\Debug\Day08_0400TreeView.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\bin\Debug\Day08_0400TreeView.pdb
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\obj\Debug\Day08_0400TreeView.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\obj\Debug\Day08_0400TreeView.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\obj\Debug\Day08_0400TreeView.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\obj\Debug\Day08_0400TreeView.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\obj\Debug\Day08_0400TreeView.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0400TreeView\obj\Debug\Day08_0400TreeView.pdb

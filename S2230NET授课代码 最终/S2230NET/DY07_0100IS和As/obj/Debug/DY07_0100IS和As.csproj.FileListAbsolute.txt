@@ -1,0 +1,11 @@
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\bin\Debug\DY07_0100IS和As.exe.config
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\bin\Debug\DY07_0100IS和As.exe
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\bin\Debug\DY07_0100IS和As.pdb
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.exe
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.pdb
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\bin\Debug\HelloCsharp.WinFormUI.dll
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.HappyTextBox.resources
+F:\TecahCode\S2230NET\S2230NET\DY07_0100IS和As\obj\Debug\DY07_0100IS和As.csprojResolveAssemblyReference.cache

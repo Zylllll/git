@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day08_0300xml\bin\Debug\Day08_0300xml.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day08_0300xml\bin\Debug\Day08_0300xml.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0300xml\bin\Debug\Day08_0300xml.pdb
+F:\TecahCode\S2230NET\S2230NET\Day08_0300xml\obj\Debug\Day08_0300xml.exe
+F:\TecahCode\S2230NET\S2230NET\Day08_0300xml\obj\Debug\Day08_0300xml.pdb
+F:\TecahCode\S2230NET\S2230NET\Day08_0300xml\obj\Debug\Day08_0300xml.csprojResolveAssemblyReference.cache

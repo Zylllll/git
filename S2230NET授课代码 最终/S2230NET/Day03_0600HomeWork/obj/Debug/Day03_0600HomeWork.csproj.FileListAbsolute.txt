@@ -1,0 +1,9 @@
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\bin\Debug\Day03_0600HomeWork.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\bin\Debug\Day03_0600HomeWork.exe
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\bin\Debug\Day03_0600HomeWork.pdb
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\obj\Debug\Day03_0600HomeWork.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\obj\Debug\Day03_0600HomeWork.Form1.resources
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\obj\Debug\Day03_0600HomeWork.Properties.Resources.resources
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\obj\Debug\Day03_0600HomeWork.csproj.GenerateResource.Cache
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\obj\Debug\Day03_0600HomeWork.exe
+F:\TecahCode\S2230NET\S2230NET\Day03_0600HomeWork\obj\Debug\Day03_0600HomeWork.pdb

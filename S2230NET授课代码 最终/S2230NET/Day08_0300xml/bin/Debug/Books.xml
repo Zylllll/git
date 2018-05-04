@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book id="001">
+     <bookName>大话设计模式</bookName>
+     <bookPrice>36</bookPrice>
+     <bookAuthor>程杰</bookAuthor>
+   </book>
+  <book id="002">
+    <bookName>设计模式之禅</bookName>
+    <bookPrice>66</bookPrice>
+    <bookAuthor>佚名</bookAuthor>
+  </book>
+  <book id="003">
+    <bookName>GOF四人组---设计模式的鼻祖</bookName>
+    <bookPrice>166</bookPrice>
+    <bookAuthor>GOF</bookAuthor>
+  </book>
+</books>

@@ -1,0 +1,5 @@
+F:\TecahCode\S2230NET\S2230NET\Day04_0300对象间的交互\bin\Debug\Day04_0300对象间的交互.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day04_0300对象间的交互\bin\Debug\Day04_0300对象间的交互.exe
+F:\TecahCode\S2230NET\S2230NET\Day04_0300对象间的交互\bin\Debug\Day04_0300对象间的交互.pdb
+F:\TecahCode\S2230NET\S2230NET\Day04_0300对象间的交互\obj\Debug\Day04_0300对象间的交互.exe
+F:\TecahCode\S2230NET\S2230NET\Day04_0300对象间的交互\obj\Debug\Day04_0300对象间的交互.pdb

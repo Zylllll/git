@@ -1,0 +1,2 @@
+F:\TecahCode\S2230NET\S2230NET\Day04_0100构造\bin\Debug\Day04_0100构造.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day04_0100构造\obj\Debug\Day04_0100构造.csprojResolveAssemblyReference.cache

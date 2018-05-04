@@ -1,0 +1,6 @@
+F:\TecahCode\S2230NET\S2230NET\Day09_0100WriterText\bin\Debug\Day09_0100WriterText.exe.config
+F:\TecahCode\S2230NET\S2230NET\Day09_0100WriterText\obj\Debug\Day09_0100WriterText.csprojResolveAssemblyReference.cache
+F:\TecahCode\S2230NET\S2230NET\Day09_0100WriterText\bin\Debug\Day09_0100WriterText.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0100WriterText\bin\Debug\Day09_0100WriterText.pdb
+F:\TecahCode\S2230NET\S2230NET\Day09_0100WriterText\obj\Debug\Day09_0100WriterText.exe
+F:\TecahCode\S2230NET\S2230NET\Day09_0100WriterText\obj\Debug\Day09_0100WriterText.pdb
